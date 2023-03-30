@@ -4,6 +4,3 @@ def new():
 
 print(new())
 
-def Hi():
-    return 'Привіт від Федченка Владислава'
-print(Hi())
