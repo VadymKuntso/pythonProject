@@ -1,4 +1,4 @@
 
-def sum(3,7):
-    return()
-print(sum)
+def sum():
+    return(3+7)
+print(sum())
