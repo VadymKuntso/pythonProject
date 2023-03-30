@@ -1,2 +1,5 @@
-print('Hello, world!')
-print(1+1)
+def new():
+    return 'Hello, world!'
+
+
+print(new())
