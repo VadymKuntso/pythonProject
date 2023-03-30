@@ -1,4 +1,4 @@
-def dil(a,b):
+def dil(a, b):
     return a/b
 
 
